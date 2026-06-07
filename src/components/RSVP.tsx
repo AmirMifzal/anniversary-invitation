@@ -100,7 +100,6 @@ export default function RSVP() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
             >
-              <div className="text-6xl">🎉💕🎉</div>
               <p className="font-display text-3xl text-rose">
                 Yay! I love you, Sayang! ❤️
               </p>

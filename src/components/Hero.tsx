@@ -30,7 +30,7 @@ export default function Hero() {
           <span className="block text-rose font-script text-6xl md:text-8xl lg:text-9xl">
             &amp;
           </span>
-          Amir
+          Mifzal
         </motion.h1>
 
         <motion.div
